@@ -8,9 +8,9 @@ connections.
 https://www.netacad.com/learning-collections/cisco-packet-tracer?courseLang=en-US
 
 # Download Cisco Packet Tracer
-##Create an account on Networking Academy. Navigate to https://auth.netacad.com/auth/realms/skillsforall/login-actions/registration?client_id=b2e-marketplace&tab_id=xD4ZJE3xccc  
-##Navigate to https://www.netacad.com/resources/lab-downloads?courseLang=en-US 
-##Select your operating system 
-##Run the executable
+-Create an account on Networking Academy. Navigate to https://auth.netacad.com/auth/realms/skillsforall/login-actions/registration?client_id=b2e-marketplace&tab_id=xD4ZJE3xccc  
+-Navigate to https://www.netacad.com/resources/lab-downloads?courseLang=en-US 
+-Select your operating system 
+-Run the executable
 
 
